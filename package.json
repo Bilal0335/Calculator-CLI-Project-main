@@ -1,0 +1,36 @@
+{
+  "name": "@bilaljutt123/simple-calcualtor",
+  "version": "2.0.2",
+  "description": "A Simple Calculator CLI Project Typescript & Node js",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@bilaljutt123/simple-calcualtor": "^1.0.2",
+    "bilalcode-simple-calcualtor": "^1.0.1",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.16",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/gradient-string": "^1.1.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30",
+    "@types/prompt-sync": "^4.2.3",
+    "gradient-string": "^2.0.2",
+    "i": "^0.3.7",
+    "npm": "^10.5.1"
+  }
+}
